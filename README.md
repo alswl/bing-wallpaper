@@ -1,6 +1,10 @@
 Bing Wallpaper for Mac and Ubuntu
 =================================
 
+!!! Deprecated !!!
+
+Please use API based version: [.oOo./bing-wallpaper.sh at master · alswl/.oOo.](https://github.com/alswl/.oOo./blob/master/local/bin/bing-wallpaper.sh)
+
 Information
 -----------
 A script which downloads the latest picture of the day from Bing.com and saves
